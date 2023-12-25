@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DaRLe5ijhD3W7qQ66pbPz1DH58tULy6wK3ztWP2arrM3ir7K2Cd1RgZsL+SWsVswgukP+X1qaDmNdMlWekklmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onuem\\PersonalProjects\\Sealer\\Sealer\\Sealer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onuem\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
